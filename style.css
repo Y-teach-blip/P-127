@@ -1,0 +1,19 @@
+.header
+{
+    width: 100%;
+    margin: 0%;
+    font-size: 16px;
+}
+
+.note
+{
+    color: black;
+}
+
+canvas
+{
+    border: 5px double rgb(202, 198, 198);
+    box-shadow: 5px 5px 5px plum;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0);
+}
